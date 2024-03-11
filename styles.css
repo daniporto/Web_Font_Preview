@@ -1,0 +1,139 @@
+body {
+    background-image: url("https://content.codecademy.com/courses/jquery/images/typetile.png");
+    background-repeat: repeat;
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  .outer-container{
+    width: 100%;
+  }
+  h1 {
+    color: #FF6D04;
+    font-size: 4rem;
+    font-weight: 300;
+    letter-spacing: 10px;
+    line-height: 2rem;
+    text-align: center;
+  } 
+  
+  h2 {
+    color: #71706c;
+    font-size: .9rem;
+    font-weight: 100;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+    text-align: center;
+  } 
+  
+  header {
+    text-align: center;
+    font-family: "verdana";
+  }
+  
+  .preview {
+    align-content: center;
+    background: white;
+    font-family: Helvetica;
+    font-size: 12px;
+    font-weight: normal;
+    margin: 0 auto 0 auto;
+    min-height: 150px;
+    padding: 30;
+    word-wrap: break-word;
+    font-weight: 600;
+    text-align: center;
+  }
+  
+  textarea {
+    border-color: #E6B000;
+    border-radius: 5px;
+    border-style: solid;
+    border-width:1px;
+    display: block;
+    font-family: "Helvetica-Light", "Helvetica", "Arial", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 30px auto 30px auto;
+    padding: 20px;
+  }
+  
+  .formHolder {
+    background-color: #665C3D;
+    border-radius: 4px 4px 0px 0px;
+    color: #FF6D05;
+    font-family: "verdana";
+    font-size: 0.75rem;
+    margin: 40px auto 0 auto;
+    padding: 20px;
+    text-transform: uppercase;
+    height: 80px;
+  }
+  
+  .form {
+    display: inline;
+  }
+  
+
+  .third1 {
+    height: 100%;
+    float: right;
+    font-size: 25px;
+    margin-top: 15px; 
+    font-weight: 700;   
+  }
+  .third2 {
+    height: 100%;
+    float: left;
+    font-size: 25px;
+    margin-top: 10px; 
+    margin-right: 210px;
+    font-weight: 700;
+    
+    
+  }
+ 
+  .third3 {
+    height: 100%;
+    float: left;
+    font-size: 25px;
+    margin-top: 15px; 
+    font-weight: 700;
+    
+    
+   
+  }
+ 
+  
+  #size{
+    margin-left: 150px;
+    font-size: 16px;
+    width: 100px;
+    text-align: center;
+    height: 4.2vh;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-top: 8px;
+    
+  }
+  
+  #font {
+    margin-left: 10px;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-weight: 600;
+  }
+  
+  #weight {
+    padding-left:  350px;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-weight: 600;
+  
+  }
+.type{
+  width: 50%;
+  font-weight: 600;
+  text-align: center;
+}
